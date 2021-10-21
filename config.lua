@@ -321,7 +321,7 @@
 	rateSkillOffline = 0.5
 	rateMagic = 10
 	rateMagicOffline = 0.5
-	rateLoot = 2.5
+	rateLoot = 2
 	rateSpawnMin = 1
 	rateSpawnMax = 1
 	formulaLevel = 5.0
