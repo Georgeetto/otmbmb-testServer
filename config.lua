@@ -2,14 +2,14 @@
 
 	-- Owner Data
 	ownerName = "cHR"
-	ownerEmail = ""
-	url = ""
+	ownerEmail = "admin@mbmbgaming.xyz"
+	url = "https://mbmbgaming.xyz/"
 	location = "Brazil"
 
 	-- Messages
-	motd = "Welcome to MBMB RealOTX 7.72!"
+	motd = "Welcome to MBMB Retro - v1.0 Beta!"
 	serverName = "MBMB"
-	loginMessage = "Welcome to MBMB RealOTX 7.72!"
+	loginMessage = "Welcome to MBMB Retro - v1.0 Beta!"
 	displayGamemastersWithOnlineCommand = true
 
 	-- MySql
@@ -81,7 +81,7 @@
 	allowFightback = false
 	pzLocked = 60 * 1000
 	huntingDuration = 60 * 1000
-	criticalHitMultiplier = 1
+	criticalHitMultiplier = 1.3
 	displayCriticalHitNotify = true
 	removeWeaponAmmunition = true
 	removeWeaponCharges = true
@@ -209,7 +209,7 @@
 	buyableAndSellableHouses = true
 	houseNeedPremium = true
 	bedsRequirePremium = true
-	levelToBuyHouse = 20
+	levelToBuyHouse = 8
 	housesPerAccount = 2
 	houseRentAsPrice = false
 	housePriceAsRent = false
@@ -232,7 +232,7 @@
 	-- Map
 	-- NOTE: storeTrash costs more memory, but will perform alot faster cleaning.
 	-- houseDataStorage usage may be found at how-use-internal-functions.log
-	mapAuthor = "BrewsterL"
+	mapAuthor = "MBMB"
 	randomizeTiles = true
 	houseDataStorage = "binary-tilebased"
 	storeTrash = true
@@ -286,7 +286,7 @@
 
 	-- Ghost mode
 	ghostModeInvisibleEffect = false
-	ghostModeSpellEffects = true
+	ghostModeSpellEffects = false
 
 	-- Limits
 	idleWarningTime = 14 * 60 * 1000
@@ -316,7 +316,7 @@
 	experienceStages = true
 	rateExperience = 40
 	rateExperienceFromPlayers = 2
-	levelToOfflineTraining = 15
+	levelToOfflineTraining = 20
 	rateSkill = 20
 	rateSkillOffline = 0.5
 	rateMagic = 10
