@@ -362,6 +362,12 @@
 	<spawn centerx="33022" centery="32781" centerz="3" radius="5">
 		<monster name="cobra" x="0" y="0" z="3" spawntime="60" />
 	</spawn>
+	<spawn centerx="33131" centery="32811" centerz="3" radius="1">
+		<npc name="Alesar" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="33132" centery="32821" centerz="3" radius="1">
+		<npc name="Yaman" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
 	<spawn centerx="31666" centery="32826" centerz="3" radius="1">
 		<monster name="hunter" x="0" y="0" z="3" spawntime="60" />
 	</spawn>
@@ -773,6 +779,12 @@
 	</spawn>
 	<spawn centerx="33156" centery="32809" centerz="4" radius="1">
 		<npc name="Dario" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="33130" centery="32810" centerz="4" radius="1">
+		<npc name="Nah'Bob" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="33131" centery="32820" centerz="4" radius="1">
+		<npc name="Haroun" x="0" y="0" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="31671" centery="32824" centerz="4" radius="1">
 		<monster name="hero" x="0" y="0" z="4" spawntime="60" />
@@ -5985,6 +5997,9 @@
 	</spawn>
 	<spawn centerx="32241" centery="32205" centerz="7" radius="1">
 		<monster name="Training Monk" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="32363" centery="32205" centerz="7" radius="1">
+		<npc name="Rashid" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="32222" centery="32207" centerz="7" radius="1">
 		<monster name="Training Monk" x="0" y="0" z="7" spawntime="60" />
