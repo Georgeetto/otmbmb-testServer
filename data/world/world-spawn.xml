@@ -636,6 +636,9 @@
 	<spawn centerx="32138" centery="32172" centerz="4" radius="5">
 		<npc name="Hyacinth" x="-1" y="-1" z="4" spawntime="60" />
 	</spawn>
+	<spawn centerx="32310" centery="32218" centerz="4" radius="2">
+		<npc name="Captain Cobrador" x="0" y="-1" z="4" spawntime="60" direction="2" />
+	</spawn>
 	<spawn centerx="32659" centery="32352" centerz="4" radius="5">
 		<monster name="tarantula" x="0" y="0" z="4" spawntime="60" />
 	</spawn>
@@ -941,6 +944,9 @@
 		<monster name="wasp" x="-2" y="0" z="5" spawntime="60" />
 		<monster name="wasp" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="32733" centery="31676" centerz="5" radius="1">
+		<npc name="Captain Cobrador" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="33195" centery="31680" centerz="5" radius="5">
 		<monster name="ghoul" x="4" y="-3" z="5" spawntime="60" />
 		<monster name="skeleton" x="-2" y="-1" z="5" spawntime="60" />
@@ -965,6 +971,9 @@
 	</spawn>
 	<spawn centerx="32849" centery="31740" centerz="5" radius="5">
 		<monster name="orc spearman" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="33183" centery="31764" centerz="5" radius="1">
+		<npc name="Captain Cobrador" x="0" y="0" z="5" spawntime="60" direction="2" />
 	</spawn>
 	<spawn centerx="32878" centery="31767" centerz="5" radius="5">
 		<monster name="orc warrior" x="-1" y="0" z="5" spawntime="60" />
@@ -1024,6 +1033,9 @@
 	</spawn>
 	<spawn centerx="32544" centery="31808" centerz="5" radius="5">
 		<monster name="wolf" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="32393" centery="31821" centerz="5" radius="1">
+		<npc name="Captain Cobrador" x="0" y="-1" z="5" spawntime="60" direction="2" />
 	</spawn>
 	<spawn centerx="32842" centery="31827" centerz="5" radius="5">
 		<monster name="wasp" x="0" y="0" z="5" spawntime="60" />
@@ -1093,6 +1105,9 @@
 	<spawn centerx="31613" centery="31971" centerz="5" radius="8" />
 	<spawn centerx="31585" centery="32009" centerz="5" radius="5" />
 	<spawn centerx="31612" centery="32009" centerz="5" radius="2" />
+	<spawn centerx="32963" centery="32022" centerz="5" radius="2">
+		<npc name="Captain Cobrador" x="-1" y="-1" z="5" spawntime="60" direction="2" />
+	</spawn>
 	<spawn centerx="31605" centery="32033" centerz="5" radius="1" />
 	<spawn centerx="31590" centery="32036" centerz="5" radius="2" />
 	<spawn centerx="32980" centery="32036" centerz="5" radius="5">
@@ -1364,6 +1379,9 @@
 	<spawn centerx="33055" centery="32468" centerz="5" radius="5">
 		<monster name="skeleton" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="33295" centery="32481" centerz="5" radius="1">
+		<npc name="Captain Cobrador" x="0" y="1" z="5" spawntime="60" direction="2" />
+	</spawn>
 	<spawn centerx="32779" centery="32517" centerz="5" radius="5">
 		<monster name="kongra" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
@@ -1496,6 +1514,9 @@
 	</spawn>
 	<spawn centerx="32956" centery="32851" centerz="5" radius="5">
 		<monster name="lizard snakecharmer" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="33092" centery="32890" centerz="5" radius="2">
+		<npc name="Captain Cobrador" x="1" y="-1" z="5" spawntime="60" direction="2" />
 	</spawn>
 	<spawn centerx="31625" centery="32914" centerz="5" radius="1" />
 	<spawn centerx="31649" centery="32924" centerz="5" radius="1">
@@ -4562,6 +4583,9 @@
 		<monster name="amazon" x="-4" y="-5" z="7" spawntime="60" />
 		<monster name="amazon" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="32309" centery="31934" centerz="7" radius="1">
+		<npc name="Captain Cobrador" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
 	<spawn centerx="32819" centery="31934" centerz="7" radius="5">
 		<monster name="amazon" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -6400,6 +6424,9 @@
 		<monster name="spider" x="-4" y="-1" z="7" spawntime="60" />
 		<monster name="spider" x="0" y="0" z="7" spawntime="60" />
 		<monster name="spider" x="1" y="3" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="32232" centery="32239" centerz="7" radius="1">
+		<npc name="World Traveler" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="32400" centery="32239" centerz="7" radius="5">
 		<monster name="chicken" x="0" y="0" z="7" spawntime="7200" />
@@ -23349,6 +23376,9 @@
 	</spawn>
 	<spawn centerx="32531" centery="31924" centerz="11" radius="5">
 		<monster name="dwarf guard" x="0" y="0" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="32661" centery="31924" centerz="11" radius="1">
+		<npc name="Captain Cobrador" x="0" y="-1" z="11" spawntime="60" direction="2" />
 	</spawn>
 	<spawn centerx="32424" centery="31925" centerz="11" radius="5">
 		<monster name="poison spider" x="0" y="0" z="11" spawntime="60" />
