@@ -32131,8 +32131,15 @@
 	<spawn centerx="3360" centery="31599" centerz="15" radius="5">
 		<monster name="stone golem" x="0" y="0" z="15" spawntime="60" />
 	</spawn>
-	<spawn centerx="33158" centery="31600" centerz="15" radius="5" />
-	<spawn centerx="33138" centery="31602" centerz="15" radius="5" />
+	<spawn centerx="33158" centery="31600" centerz="15" radius="5">
+		<monster name="hero" x="3" y="-2" z="15" spawntime="750" />
+		<monster name="hero" x="-1" y="-1" z="15" spawntime="750" />
+		<monster name="hero" x="3" y="1" z="15" spawntime="750" />
+	</spawn>
+	<spawn centerx="33138" centery="31602" centerz="15" radius="5">
+		<monster name="hero" x="3" y="-2" z="15" spawntime="750" />
+		<monster name="hero" x="-1" y="1" z="15" spawntime="750" />
+	</spawn>
 	<spawn centerx="32508" centery="31603" centerz="15" radius="5">
 		<monster name="warlock" x="0" y="1" z="15" spawntime="60" />
 		<monster name="dragon" x="1" y="4" z="15" spawntime="60" />
@@ -32166,7 +32173,9 @@
 	</spawn>
 	<spawn centerx="33069" centery="31621" centerz="15" radius="5" />
 	<spawn centerx="33155" centery="31622" centerz="15" radius="5">
-		<monster name="hero" x="0" y="1" z="15" spawntime="750" />
+		<monster name="hero" x="-1" y="-1" z="15" spawntime="750" />
+		<monster name="hero" x="-1" y="2" z="15" spawntime="750" />
+		<monster name="hero" x="2" y="2" z="15" spawntime="750" />
 	</spawn>
 	<spawn centerx="33091" centery="31625" centerz="15" radius="5">
 		<monster name="fire elemental" x="1" y="-3" z="15" spawntime="60" />
@@ -32186,8 +32195,12 @@
 		<monster name="fire elemental" x="-2" y="0" z="15" spawntime="120" />
 	</spawn>
 	<spawn centerx="33134" centery="31629" centerz="15" radius="5">
+		<monster name="hero" x="-3" y="-4" z="15" spawntime="750" />
+		<monster name="hero" x="4" y="-4" z="15" spawntime="750" />
+		<monster name="priestess" x="-2" y="-2" z="15" spawntime="60" />
 		<monster name="priestess" x="0" y="0" z="15" spawntime="60" />
 		<monster name="hero" x="2" y="0" z="15" spawntime="60" />
+		<monster name="hero" x="-3" y="1" z="15" spawntime="750" />
 	</spawn>
 	<spawn centerx="32480" centery="31630" centerz="15" radius="5">
 		<monster name="dragon" x="0" y="-5" z="15" spawntime="60" />
