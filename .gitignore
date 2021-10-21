@@ -5,9 +5,9 @@
 Thumbs.db
 
 # Logs
-/data/logs/
-/data/logs/admin.log
-/data/logs/client_assertions.log
-/data/logs/talkactions/GOD cHR.log
-/data/logs/talkactions/GM Drk.log
-/data/logs/talkactions/GM Cloud.log
+data/logs/
+data/logs/admin.log
+data/logs/client_assertions.log
+data/logs/talkactions/GOD cHR.log
+data/logs/talkactions/GM Drk.log
+data/logs/talkactions/GM Cloud.log
