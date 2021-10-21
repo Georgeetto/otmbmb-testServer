@@ -2288,6 +2288,9 @@
 		<npc name="Dustrunner" x="-2" y="-2" z="6" spawntime="60" />
 		<npc name="Lightfoot" x="-2" y="2" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="32970" centery="32080" centerz="6" radius="1">
+		<npc name="Frans" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="31543" centery="32082" centerz="6" radius="5" />
 	<spawn centerx="32980" centery="32084" centerz="6" radius="5">
 		<npc name="Chatterbone" x="1" y="-4" z="6" spawntime="60" />
@@ -6366,23 +6369,17 @@
 		<monster name="rabbit" x="0" y="0" z="7" spawntime="60" />
 		<monster name="snake" x="-4" y="3" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="32222" centery="32233" centerz="7" radius="1">
-		<monster name="Training Monk" x="0" y="0" z="7" spawntime="60" />
+	<spawn centerx="32222" centery="32234" centerz="7" radius="1">
+		<npc name="Frodo" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="32241" centery="32233" centerz="7" radius="1">
-		<monster name="Training Monk" x="0" y="0" z="7" spawntime="60" />
+	<spawn centerx="32241" centery="32234" centerz="7" radius="1">
+		<npc name="Xodet" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="32639" centery="32234" centerz="7" radius="5">
 		<monster name="Blue Butterfly" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="32735" centery="32234" centerz="7" radius="5">
 		<monster name="poison spider" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="32222" centery="32235" centerz="7" radius="1">
-		<monster name="Training Monk" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="32241" centery="32235" centerz="7" radius="1">
-		<monster name="Training Monk" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="32690" centery="32235" centerz="7" radius="5">
 		<monster name="giant spider" x="-4" y="-2" z="7" spawntime="60" />
@@ -6399,12 +6396,6 @@
 	</spawn>
 	<spawn centerx="32033" centery="32237" centerz="7" radius="5">
 		<monster name="rabbit" x="0" y="0" z="7" spawntime="300" />
-	</spawn>
-	<spawn centerx="32227" centery="32237" centerz="7" radius="1">
-		<npc name="Frodo" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="32237" centery="32237" centerz="7" radius="1">
-		<npc name="Xodet" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="32499" centery="32237" centerz="7" radius="5">
 		<monster name="troll" x="-3" y="-2" z="7" spawntime="60" />
