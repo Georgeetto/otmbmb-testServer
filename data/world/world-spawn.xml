@@ -28398,10 +28398,49 @@
 	<spawn centerx="31975" centery="32230" centerz="13" radius="5">
 		<monster name="goblin" x="3" y="1" z="13" spawntime="60" />
 	</spawn>
+	<spawn centerx="32730" centery="32281" centerz="13" radius="5">
+		<monster name="fire elemental" x="3" y="-2" z="13" spawntime="60" />
+		<monster name="fire elemental" x="-1" y="3" z="13" spawntime="60" />
+	</spawn>
 	<spawn centerx="32140" centery="32283" centerz="13" radius="5" />
+	<spawn centerx="32730" centery="32287" centerz="13" radius="5">
+		<monster name="fire elemental" x="-4" y="1" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="32760" centery="32299" centerz="13" radius="5">
+		<monster name="dragon lord" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="32704" centery="32301" centerz="13" radius="5">
+		<monster name="dragon lord" x="3" y="-4" z="13" spawntime="60" />
+		<monster name="dragon lord" x="-4" y="-3" z="13" spawntime="60" />
+		<monster name="dragon lord" x="4" y="2" z="13" spawntime="60" />
+		<monster name="dragon lord" x="-1" y="5" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="32738" centery="32303" centerz="13" radius="5">
+		<monster name="dragon lord" x="0" y="-2" z="13" spawntime="60" />
+		<monster name="dragon lord" x="2" y="-2" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="32726" centery="32307" centerz="13" radius="5">
+		<monster name="dragon lord" x="3" y="0" z="13" spawntime="60" />
+		<monster name="dragon lord" x="-3" y="2" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="32760" centery="32309" centerz="13" radius="5">
+		<monster name="dragon lord" x="-3" y="-4" z="13" spawntime="60" />
+		<monster name="dragon lord" x="4" y="-4" z="13" spawntime="60" />
+		<monster name="dragon lord" x="-3" y="4" z="13" spawntime="60" />
+		<monster name="dragon lord" x="4" y="4" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="32707" centery="32313" centerz="13" radius="5">
+		<monster name="dragon lord" x="2" y="-3" z="13" spawntime="60" />
+		<monster name="dragon lord" x="4" y="1" z="13" spawntime="60" />
+		<monster name="dragon lord" x="-3" y="3" z="13" spawntime="60" />
+	</spawn>
 	<spawn centerx="32842" centery="32316" centerz="13" radius="5">
 		<monster name="demon skeleton" x="0" y="0" z="13" spawntime="60" />
 		<monster name="ghoul" x="2" y="2" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="32715" centery="32317" centerz="13" radius="5">
+		<monster name="dragon lord" x="4" y="-3" z="13" spawntime="60" />
+		<monster name="dragon lord" x="-2" y="1" z="13" spawntime="60" />
 	</spawn>
 	<spawn centerx="32786" centery="32318" centerz="13" radius="5">
 		<monster name="demon skeleton" x="0" y="0" z="13" spawntime="60" />
@@ -28409,9 +28448,33 @@
 	<spawn centerx="32823" centery="32320" centerz="13" radius="5">
 		<monster name="demon skeleton" x="0" y="0" z="13" spawntime="60" />
 	</spawn>
+	<spawn centerx="32693" centery="32321" centerz="13" radius="5">
+		<monster name="dragon lord" x="4" y="-3" z="13" spawntime="60" />
+		<monster name="dragon lord" x="-2" y="-2" z="13" spawntime="60" />
+		<monster name="dragon lord" x="-3" y="3" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="32728" centery="32326" centerz="13" radius="5">
+		<monster name="dragon lord" x="-2" y="-4" z="13" spawntime="60" />
+		<monster name="dragon lord" x="2" y="2" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="32751" centery="32327" centerz="13" radius="5">
+		<monster name="dragon lord" x="4" y="-4" z="13" spawntime="60" />
+		<monster name="dragon lord" x="-1" y="-3" z="13" spawntime="60" />
+		<monster name="dragon lord" x="-3" y="3" z="13" spawntime="60" />
+		<monster name="dragon lord" x="3" y="3" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="32669" centery="32331" centerz="13" radius="5">
+		<monster name="dragon lord" x="3" y="-2" z="13" spawntime="60" />
+		<monster name="dragon lord" x="-2" y="3" z="13" spawntime="60" />
+	</spawn>
 	<spawn centerx="32849" centery="32333" centerz="13" radius="5">
 		<monster name="ghoul" x="0" y="0" z="13" spawntime="60" />
 		<monster name="demon skeleton" x="-3" y="2" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="32713" centery="32336" centerz="13" radius="5">
+		<monster name="dragon lord" x="4" y="-3" z="13" spawntime="60" />
+		<monster name="dragon lord" x="-3" y="-2" z="13" spawntime="60" />
+		<monster name="dragon lord" x="-2" y="4" z="13" spawntime="60" />
 	</spawn>
 	<spawn centerx="32808" centery="32338" centerz="13" radius="5">
 		<monster name="dragon lord" x="0" y="0" z="13" spawntime="60" />
@@ -28423,6 +28486,12 @@
 	<spawn centerx="32872" centery="32341" centerz="13" radius="5">
 		<monster name="demon skeleton" x="0" y="0" z="13" spawntime="60" />
 	</spawn>
+	<spawn centerx="32688" centery="32343" centerz="13" radius="5">
+		<monster name="dragon lord" x="-2" y="-3" z="13" spawntime="60" />
+		<monster name="dragon lord" x="3" y="-2" z="13" spawntime="60" />
+		<monster name="dragon lord" x="-3" y="3" z="13" spawntime="60" />
+		<monster name="dragon lord" x="2" y="5" z="13" spawntime="60" />
+	</spawn>
 	<spawn centerx="32826" centery="32345" centerz="13" radius="5">
 		<monster name="slime" x="0" y="0" z="13" spawntime="60" />
 	</spawn>
@@ -28431,6 +28500,12 @@
 	</spawn>
 	<spawn centerx="32794" centery="32346" centerz="13" radius="5">
 		<monster name="giant spider" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="32751" centery="32347" centerz="13" radius="5">
+		<monster name="dragon lord" x="-3" y="-3" z="13" spawntime="60" />
+		<monster name="dragon lord" x="4" y="-3" z="13" spawntime="60" />
+		<monster name="dragon lord" x="-3" y="4" z="13" spawntime="60" />
+		<monster name="dragon lord" x="4" y="4" z="13" spawntime="60" />
 	</spawn>
 	<spawn centerx="32818" centery="32350" centerz="13" radius="5">
 		<monster name="demon skeleton" x="0" y="0" z="13" spawntime="60" />
@@ -28450,6 +28525,11 @@
 	</spawn>
 	<spawn centerx="32839" centery="32362" centerz="13" radius="5">
 		<monster name="demon skeleton" x="0" y="0" z="13" spawntime="60" />
+	</spawn>
+	<spawn centerx="32717" centery="32366" centerz="13" radius="5">
+		<monster name="dragon lord" x="2" y="-4" z="13" spawntime="60" />
+		<monster name="dragon lord" x="-4" y="-1" z="13" spawntime="60" />
+		<monster name="dragon lord" x="4" y="4" z="13" spawntime="60" />
 	</spawn>
 	<spawn centerx="33055" centery="32489" centerz="13" radius="5">
 		<monster name="priestess" x="0" y="0" z="13" spawntime="60" />
