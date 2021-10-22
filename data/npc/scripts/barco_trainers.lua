@@ -93,7 +93,7 @@ Ank = false                                       ----> TRUE:Working/FALSE:Not W
 ---------------------------------------ANKRAHMUN CONFIG------------------------------------------- 
 local TrainerzPosition = {x=32232, y=32237, z=7}              ----> Destination from Ankrahmun Boat <---- 
 local TrainerzCost = 0                                  ----> Cost to Travel for Ankrahmun    <---- 
-Ank = false                                       ----> TRUE:Working/FALSE:Not Working  <---- 
+Ank = true                                       ----> TRUE:Working/FALSE:Not Working  <---- 
 ---------------------------------------END ANKRAHMUN CONFIG--------------------------------------- 
 
 
