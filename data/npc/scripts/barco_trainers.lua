@@ -17,8 +17,8 @@ function onThink()                         npcHandler:onThink() end
 ---------------------------------------MENSAGES CONFIG-------------------------------------------- 
 local HelloText = 'Hello |PLAYERNAME|. Welcome to my Boat!' 
 local HelpText = 'Do you need help?I can tell you some {destinations}.' 
-local DestinationText = 'I can take you to {Carlin}, {Gengia}, {Ab\'Dendriel}, {Venore}, {Edron} and {Darashia}.'            
-local CitysText = 'I can take you to {Carlin}, {Gengia}, {Ab\'Dendriel}, {Kazordoon}, {Venore}, {Edron}, {Darashia}.'  
+local DestinationText = 'I can take you to {Trainers}, {Carlin}, {Gengia}, {Ab\'Dendriel}, {Venore}, {Edron} and {Darashia}.'            
+local CitysText = 'I can take you to {Trainers}, {Carlin}, {Gengia}, {Ab\'Dendriel}, {Kazordoon}, {Venore}, {Edron}, {Darashia}.'  
 local JobText = 'Im an Captain, and this is my Boat.'                                                                  
 ---------------------------------------END MENSAGES CONFIG---------------------------------------- 
 
