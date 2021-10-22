@@ -17,8 +17,8 @@ function onThink()                         npcHandler:onThink() end
 ---------------------------------------MENSAGES CONFIG-------------------------------------------- 
 local HelloText = 'Hello |PLAYERNAME|. Welcome to my Boat!' 
 local HelpText = 'Do you need help?I can tell you some {destinations}.' 
-local DestinationText = 'I can take you to {Carlin}, {Gengia}, {Ab\'Dendriel}, {Venore}, {Edron} and {Darashia}.'            
-local CitysText = 'I can take you to {Carlin}, {Gengia}, {Ab\'Dendriel}, {Kazordoon}, {Venore}, {Edron}, {Darashia}.'  
+local DestinationText = 'I can take you to {Trainers}, {Carlin}, {Gengia}, {Ab\'Dendriel}, {Venore}, {Edron} and {Darashia}.'            
+local CitysText = 'I can take you to {Trainers}, {Carlin}, {Gengia}, {Ab\'Dendriel}, {Kazordoon}, {Venore}, {Edron}, {Darashia}.'  
 local JobText = 'Im an Captain, and this is my Boat.'                                                                  
 ---------------------------------------END MENSAGES CONFIG---------------------------------------- 
 
@@ -90,11 +90,11 @@ local AnkCost = 0                                  ----> Cost to Travel for Ankr
 Ank = false                                       ----> TRUE:Working/FALSE:Not Working  <---- 
 ---------------------------------------END ANKRAHMUN CONFIG--------------------------------------- 
 
----------------------------------------ANKRAHMUN CONFIG------------------------------------------- 
-local TrainerzPosition = {x=32232, y=32237, z=7}              ----> Destination from Ankrahmun Boat <---- 
-local TrainerzCost = 0                                  ----> Cost to Travel for Ankrahmun    <---- 
-Ank = false                                       ----> TRUE:Working/FALSE:Not Working  <---- 
----------------------------------------END ANKRAHMUN CONFIG--------------------------------------- 
+---------------------------------------Trainer Island CONFIG------------------------------------------- 
+local TrainerzPosition = {x=32232, y=32237, z=7}              ----> Destination from Trainer Island Boat <---- 
+local TrainerzCost = 0                                  ----> Cost to Travel for Trainer Island    <---- 
+Trainerz = true                                       ----> TRUE:Working/FALSE:Not Working  <---- 
+---------------------------------------END Trainer Island CONFIG--------------------------------------- 
 
 
 

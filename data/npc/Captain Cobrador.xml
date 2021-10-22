@@ -1,26 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<npc name="Captain Seahorse" script="data/npc/scripts/barco_edron.lua" walkinterval="2000" access="3" floorchange="0">
+<npc name="Captain Cobrador" script="data/npc/scripts/barco_edron.lua" walkinterval="2000" access="3" floorchange="0">
     <health now="100" max="100"/>
     <look type="129" head="38" body="100" legs="50" feet="115" addons="0"/>
     <parameters>
         
-        <parameter key="message_greet" value="Welcome on board, |PLAYERNAME|, I can take you to Trainer Island."/>
+        <parameter key="message_greet" value="Welcome on board, |PLAYERNAME|, I can take you to Trainers."/>
 		<parameter key="message_farewell" value="Good bye. Stay smokin'."/>
 		<parameter key="message_placedinqueue" value="One moment please |PLAYERNAME|. You're next in line."/>
 		<parameter key="message_walkaway" value="Next time bring some blunts at least."/>
         
         <parameter key="module_keywords" value="1" />
-        <parameter key="keywords" value="name;job;captain;ship;trainer;trainers;trainer island;island;cannabis" />
+        <parameter key="keywords" value="name;job;captain;ship;cannabis" />
 		
         <parameter key="keyword_reply1" value="My name is Captain Cobrador from the Royal Tibia Line." />
         <parameter key="keyword_reply2" value="I am the captain of this sailing-ship." />
 		<parameter key="keyword_reply3" value="I am the captain of this sailing-ship." />
 		<parameter key="keyword_reply4" value="The Royal Tibia Line connects all seaside towns of Tibia." />
-		<parameter key="keyword_reply5" value="You sure look weak. So you want to go to trainer island eh?" />
-		<parameter key="keyword_reply6" value="You sure look weak. So you want to go to trainer island eh?" />
-		<parameter key="keyword_reply7" value="You sure look weak. So you want to go to trainer island eh?" />
-		<parameter key="keyword_reply8" value="You sure look weak. So you want to go to trainer island eh?" />
-		<parameter key="keyword_reply" value="I really enjoy cannabis..." />
+		<parameter key="keyword_reply5" value="I really enjoy cannabis..." />
 
     </parameters>
 </npc>
