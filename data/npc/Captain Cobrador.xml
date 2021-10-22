@@ -10,17 +10,13 @@
 		<parameter key="message_walkaway" value="Next time bring some blunts at least."/>
         
         <parameter key="module_keywords" value="1" />
-        <parameter key="keywords" value="name;job;captain;ship;trainer;trainers;trainer island;island;cannabis" />
+        <parameter key="keywords" value="name;job;captain;ship;cannabis" />
 		
         <parameter key="keyword_reply1" value="My name is Captain Cobrador from the Royal Tibia Line." />
         <parameter key="keyword_reply2" value="I am the captain of this sailing-ship." />
 		<parameter key="keyword_reply3" value="I am the captain of this sailing-ship." />
 		<parameter key="keyword_reply4" value="The Royal Tibia Line connects all seaside towns of Tibia." />
-		<parameter key="keyword_reply5" value="You sure look weak. So you want to go to trainer island eh?" />
-		<parameter key="keyword_reply6" value="You sure look weak. So you want to go to trainer island eh?" />
-		<parameter key="keyword_reply7" value="You sure look weak. So you want to go to trainer island eh?" />
-		<parameter key="keyword_reply8" value="You sure look weak. So you want to go to trainer island eh?" />
-		<parameter key="keyword_reply" value="I really enjoy cannabis..." />
+		<parameter key="keyword_reply5" value="I really enjoy cannabis..." />
 
     </parameters>
 </npc>

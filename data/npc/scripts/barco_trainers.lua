@@ -90,11 +90,11 @@ local AnkCost = 0                                  ----> Cost to Travel for Ankr
 Ank = false                                       ----> TRUE:Working/FALSE:Not Working  <---- 
 ---------------------------------------END ANKRAHMUN CONFIG--------------------------------------- 
 
----------------------------------------ANKRAHMUN CONFIG------------------------------------------- 
-local TrainerzPosition = {x=32232, y=32237, z=7}              ----> Destination from Ankrahmun Boat <---- 
-local TrainerzCost = 0                                  ----> Cost to Travel for Ankrahmun    <---- 
-Ank = true                                       ----> TRUE:Working/FALSE:Not Working  <---- 
----------------------------------------END ANKRAHMUN CONFIG--------------------------------------- 
+---------------------------------------Trainer Island CONFIG------------------------------------------- 
+local TrainerzPosition = {x=32232, y=32237, z=7}              ----> Destination from Trainer Island Boat <---- 
+local TrainerzCost = 0                                  ----> Cost to Travel for Trainer Island    <---- 
+Trainerz = true                                       ----> TRUE:Working/FALSE:Not Working  <---- 
+---------------------------------------END Trainer Island CONFIG--------------------------------------- 
 
 
 
