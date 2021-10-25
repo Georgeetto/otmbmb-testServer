@@ -47,7 +47,7 @@
 	newPlayerLevel = 1
 	newPlayerMagicLevel = 0
 	generateAccountNumber = false
-	generateAccountSalt = true
+	generateAccountSalt = false
 
 	-- Limits on frags / Time
 	fragsLimit = 24 * 60 * 60
@@ -81,7 +81,7 @@
 	allowFightback = false
 	pzLocked = 60 * 1000
 	huntingDuration = 60 * 1000
-	criticalHitMultiplier = 1.3
+	criticalHitMultiplier = 1.2
 	displayCriticalHitNotify = true
 	removeWeaponAmmunition = true
 	removeWeaponCharges = true
@@ -210,7 +210,7 @@
 	houseNeedPremium = true
 	bedsRequirePremium = true
 	levelToBuyHouse = 8
-	housesPerAccount = 2
+	housesPerAccount = 1
 	houseRentAsPrice = false
 	housePriceAsRent = false
 	housePriceEachSquare = 1100
@@ -363,7 +363,7 @@
 	globalSaveEnabled = false
 	globalSaveHour = 8
 	globalSaveMinute = 0
-	shutdownAtGlobalSave = true
+	shutdownAtGlobalSave = false
 	cleanMapAtGlobalSave = false
 
 	-- Spawns
