@@ -210,7 +210,7 @@
 	houseNeedPremium = true
 	bedsRequirePremium = true
 	levelToBuyHouse = 8
-	housesPerAccount = 1
+	housesPerAccount = 2
 	houseRentAsPrice = false
 	housePriceAsRent = false
 	housePriceEachSquare = 1100
