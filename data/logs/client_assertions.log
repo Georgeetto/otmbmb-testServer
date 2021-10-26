@@ -1,0 +1,41 @@
+----- 20/10/2021 23:24:2 - Bitconha (189.0.73.12) -----
+Comment: 
+Windows Version: 6.2 build 9200 on 2
+Graphic Engine: 2
+Last Packet Types: 108 131 131 131 160 103 109 103 109 160
+Last Packet: 015 000 108 123 129 127 123 013 002 106 123 129 133 123 013 209
+Player Position: [33146,31616,13]
+Player.cpp 383: exception occurred, reason:
+Network.cpp 885: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1280: exception occurred (Type = 108), reason:
+Communication.cpp 1661: exception occurred (rx = 9) (ry = 5), reason:
+Communication.cpp 1649: assertion failed (rx = 9) (ry = 5), reason:
+FieldRefreshRequested(rx,ry,rz)
+Wed Oct 20 20:23:45 2021
+Debug Assertion 7.72 Communication.cpp 1649
+
+----- 21/10/2021 0:3:50 - Tirubila (45.233.107.160) -----
+Comment: 
+Windows Version: 6.2 build 9200 on 2
+Graphic Engine: 2
+Last Packet Types: 109 103 109 103 109 103 109 160 103 109
+Last Packet: 131 000 109 083 126 242 125 007 002 083 126 243 125 007 103 102
+Player Position: [32339,32242,7]
+Player.cpp 383: exception occurred, reason:
+Network.cpp 885: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1280: exception occurred (Type = 109), reason:
+Communication.cpp 1895: exception occurred, reason:
+Communication.cpp 1879: MoveCreature has been received for a coordinate where there is no creature anymore [bug0000017], reason:
+ sx: 8 sy: 6 sz: 0
+ Position: 2
+ zx: 8 zy: 7 zz: 0
+ dx: 0 dy: 1 dz: 0
+ abs_sx: 32339 abs_sy: 32242 abs_sz: 7
+ abs_zx: 32339 abs_zy: 32243 abs_zz: 7
+ Start Cylinder (1):  (870,0) (99,268451910)
+ Start Cylinder (2):  (870,0) (99,268451910)(-)(-)(-)(-)(-)(-)(-)(-)
+ Destination Cylinder (1):  (870,0)
+ Destination Cylinder (2):  (870,0)(-)(-)(-)(-)(-)(-)(-)(-)(-)
+Wed Oct 20 20:56:42 2021
+Debug Assertion 7.72 Communication.cpp 1879
+
