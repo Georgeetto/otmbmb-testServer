@@ -3,7 +3,7 @@
 	-- Owner Data
 	ownerName = "cHR"
 	ownerEmail = "admin@mbmbgaming.xyz"
-	url = "https://mbmbgaming.xyz/"
+	url = "https://mbmbgaming.xyz/global"
 	location = "Brazil"
 
 	-- Messages
@@ -210,7 +210,7 @@
 	houseNeedPremium = true
 	bedsRequirePremium = true
 	levelToBuyHouse = 8
-	housesPerAccount = 1
+	housesPerAccount = 2
 	houseRentAsPrice = false
 	housePriceAsRent = false
 	housePriceEachSquare = 1100
@@ -317,9 +317,9 @@
 	rateExperience = 40
 	rateExperienceFromPlayers = 2
 	levelToOfflineTraining = 20
-	rateSkill = 20
+	rateSkill = 16
 	rateSkillOffline = 0.5
-	rateMagic = 10
+	rateMagic = 8
 	rateMagicOffline = 0.5
 	rateLoot = 1.3
 	rateSpawnMin = 1
