@@ -80,3 +80,9 @@
 [26/10/2021 16:15:56] (Error - void ServicePort::open(IPAddressList, uint16_t)) NETWORK: bind: Address already in use
 [26/10/2021 17:21:18] (Error - void ServicePort::open(IPAddressList, uint16_t)) NETWORK: bind: Cannot assign requested address
 [26/10/2021 17:21:18] (Error - void ServicePort::open(IPAddressList, uint16_t)) NETWORK: bind: Address already in use
+[26/10/2021 19:37:25] (Error - void ServicePort::open(IPAddressList, uint16_t)) NETWORK: bind: Cannot assign requested address
+[26/10/2021 19:37:25] (Error - void ServicePort::open(IPAddressList, uint16_t)) NETWORK: bind: Address already in use
+[27/10/2021 5:11:28] (Error - void ServicePort::open(IPAddressList, uint16_t)) NETWORK: bind: Cannot assign requested address
+[27/10/2021 5:11:28] (Error - void ServicePort::open(IPAddressList, uint16_t)) NETWORK: bind: Address already in use
+[27/10/2021 16:30:31] (Error - void ServicePort::open(IPAddressList, uint16_t)) NETWORK: bind: Cannot assign requested address
+[27/10/2021 16:30:31] (Error - void ServicePort::open(IPAddressList, uint16_t)) NETWORK: bind: Address already in use
