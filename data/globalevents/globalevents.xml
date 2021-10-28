@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <globalevents>
 	<!-- Server Events -->
-	<globalevent name="save" interval="7200000" event="script" value="save.lua"/> <!-- salva a cada 3h -->
-	<globalevent name="clean" interval="28797120" event="script" value="clean.lua"/> <!-- limpa o chao a cada 8h -->
+	<globalevent name="save" interval="3600000" event="script" value="save.lua"/> <!-- salva a cada 1h -->
+	<globalevent name="clean" interval="7200000" event="script" value="clean.lua"/> <!-- limpa o chao a cada 3h -->
 	<globalevent name="init" type="startup" event="script" value="init.lua"/>
 	<globalevent name="globalsave" type="globalsave" event="script" value="init.lua"/>
 	<globalevent name="record" type="record" event="script" value="record.lua"/>
