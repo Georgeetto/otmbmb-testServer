@@ -81,7 +81,7 @@
 	allowFightback = false
 	pzLocked = 60 * 1000
 	huntingDuration = 60 * 1000
-	criticalHitMultiplier = 1
+	criticalHitMultiplier = 1.2
 	displayCriticalHitNotify = true
 	removeWeaponAmmunition = true
 	removeWeaponCharges = true
