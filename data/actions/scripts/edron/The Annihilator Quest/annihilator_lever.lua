@@ -34,7 +34,7 @@ local playersOnly = "yes"
 local questLevel = 100
 function onUse(cid, item, fromPosition, itemEx, toPosition)
 	local all_ready, monsters, player, level = 0, 0, {}, 0
-	if item.uid == 10009 then
+	if item.uid == 30015 then
 		if item.itemid == 1945 then
 			for i = 1, #players_pos do
 					table.insert(player, 0)
