@@ -362,6 +362,12 @@
 	<spawn centerx="33022" centery="32781" centerz="3" radius="5">
 		<monster name="cobra" x="0" y="0" z="3" spawntime="60" />
 	</spawn>
+	<spawn centerx="33130" centery="32810" centerz="3" radius="1">
+		<npc name="Alesar" x="1" y="1" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="33130" centery="32819" centerz="3" radius="1">
+		<npc name="Yaman" x="1" y="1" z="3" spawntime="60" />
+	</spawn>
 	<spawn centerx="31666" centery="32826" centerz="3" radius="1">
 		<monster name="hunter" x="0" y="0" z="3" spawntime="60" />
 	</spawn>
@@ -773,6 +779,12 @@
 	</spawn>
 	<spawn centerx="33156" centery="32809" centerz="4" radius="1">
 		<npc name="Dario" x="0" y="0" z="4" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="33130" centery="32810" centerz="4" radius="1">
+		<npc name="Nah'Bob" x="0" y="1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="33130" centery="32819" centerz="4" radius="1">
+		<npc name="Haroun" x="1" y="0" z="4" spawntime="60" />
 	</spawn>
 	<spawn centerx="31671" centery="32824" centerz="4" radius="1">
 		<monster name="hero" x="0" y="0" z="4" spawntime="60" />
@@ -2163,6 +2175,9 @@
 	</spawn>
 	<spawn centerx="32567" centery="32022" centerz="6" radius="5">
 		<npc name="Kevin" x="1" y="-2" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="32955" centery="32022" centerz="6" radius="3">
+		<npc name="Captain Fearless" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="33057" centery="32029" centerz="6" radius="5">
 		<monster name="orc" x="-1" y="0" z="6" spawntime="60" />
@@ -6009,6 +6024,9 @@
 		<monster name="spider" x="0" y="0" z="7" spawntime="60" />
 		<monster name="spider" x="4" y="4" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="32361" centery="32208" centerz="7" radius="3">
+		<npc name="Rashid" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="31985" centery="32209" centerz="7" radius="5">
 		<monster name="spider" x="1" y="-2" z="7" spawntime="60" />
 		<monster name="snake" x="0" y="0" z="7" spawntime="60" />
@@ -6331,13 +6349,13 @@
 		<monster name="snake" x="-4" y="3" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="32232" centery="32233" centerz="7" radius="1">
-		<npc name="Alesar" x="0" y="0" z="7" spawntime="60" />
+		<npc name="Perac" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="32223" centery="32234" centerz="7" radius="1">
-		<npc name="Frodo" x="0" y="0" z="7" spawntime="60" direction="2" />
+	<spawn centerx="32222" centery="32234" centerz="7" radius="1">
+		<npc name="Luna" x="1" y="0" z="7" spawntime="60" direction="2" />
 	</spawn>
-	<spawn centerx="32240" centery="32234" centerz="7" radius="1">
-		<npc name="Xodet" x="0" y="0" z="7" spawntime="60" direction="2" />
+	<spawn centerx="32241" centery="32234" centerz="7" radius="1">
+		<npc name="Alexander" x="0" y="0" z="7" spawntime="60" direction="2" />
 	</spawn>
 	<spawn centerx="32639" centery="32234" centerz="7" radius="5">
 		<monster name="Blue Butterfly" x="0" y="0" z="7" spawntime="60" />
