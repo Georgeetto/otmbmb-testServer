@@ -1,24 +1,24 @@
 -- The OTX Server Config
 
 	-- Owner Data
-	ownerName = "Stgrgtt"
+	ownerName = "cHR"
 	ownerEmail = "admin@mbmbgaming.xyz"
 	url = "https://mbmbgaming.xyz/global"
 	location = "Brazil"
 
 	-- Messages
-	motd = "Welcome to MBMB Retro - TEST SERVER!"
+	motd = "Welcome to MBMB Retro - v1.0 Beta!"
 	serverName = "MBMB"
-	loginMessage = "Welcome to MBMB Retro - TEST SERVER!"
+	loginMessage = "Welcome to MBMB Retro - v1.0 Beta!"
 	displayGamemastersWithOnlineCommand = true
 
 	-- MySql
 	sqlType = "mysql"
 	sqlHost = "mysql873.umbler.com"
 	sqlPort = 41890
-	sqlUser = "ot"
+	sqlUser = "ot3"
 	sqlPass = "DHYJX9fAynpTkUY"
-	sqlDatabase = "ot"
+	sqlDatabase = "ot3"
 	sqlFile = "schemas/otxserver.s3db"
 	sqlKeepAlive = 0
 	mysqlReadTimeout = 10
@@ -28,7 +28,7 @@
 
 	-- World / Ip / Port
 	worldId = 0
-	ip = "35.198.16.234"
+	ip = "34.95.176.102"
 	worldType = "open"
 	bindOnlyGlobalAddress = false
 	loginPort = 7171
@@ -81,7 +81,7 @@
 	allowFightback = false
 	pzLocked = 60 * 1000
 	huntingDuration = 60 * 1000
-	criticalHitMultiplier = 1.2
+	criticalHitMultiplier = 1
 	displayCriticalHitNotify = true
 	removeWeaponAmmunition = true
 	removeWeaponCharges = true
