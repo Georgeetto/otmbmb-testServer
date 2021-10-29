@@ -2524,6 +2524,12 @@
 	<spawn centerx="32095" centery="32228" centerz="6" radius="5">
 		<monster name="rabbit" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="32227" centery="32239" centerz="6" radius="1">
+		<npc name="Perac" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="32237" centery="32239" centerz="6" radius="1">
+		<npc name="Frodo" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
 	<spawn centerx="32031" centery="32245" centerz="6" radius="5">
 		<monster name="wolf" x="-3" y="-2" z="6" spawntime="60" />
 		<monster name="wolf" x="0" y="0" z="6" spawntime="60" />
@@ -6348,15 +6354,6 @@
 		<monster name="rabbit" x="0" y="0" z="7" spawntime="60" />
 		<monster name="snake" x="-4" y="3" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="32232" centery="32233" centerz="7" radius="1">
-		<npc name="Perac" x="0" y="0" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="32222" centery="32234" centerz="7" radius="1">
-		<npc name="Luna" x="1" y="0" z="7" spawntime="60" direction="2" />
-	</spawn>
-	<spawn centerx="32241" centery="32234" centerz="7" radius="1">
-		<npc name="Alexander" x="0" y="0" z="7" spawntime="60" direction="2" />
-	</spawn>
 	<spawn centerx="32639" centery="32234" centerz="7" radius="5">
 		<monster name="Blue Butterfly" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -6408,6 +6405,12 @@
 	<spawn centerx="32001" centery="32240" centerz="7" radius="5">
 		<monster name="snake" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="32223" centery="32240" centerz="7" radius="1">
+		<npc name="Luna" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="32241" centery="32240" centerz="7" radius="1">
+		<npc name="Alexander" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
 	<spawn centerx="32369" centery="32240" centerz="7" radius="3">
 		<npc name="Quentin" x="1" y="1" z="7" spawntime="60" direction="2" />
 	</spawn>
@@ -6436,8 +6439,8 @@
 		<monster name="wolf" x="4" y="2" z="7" spawntime="60" />
 		<monster name="spider" x="-3" y="4" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="32232" centery="32244" centerz="7" radius="1">
-		<npc name="World Traveler" x="0" y="-1" z="7" spawntime="60" />
+	<spawn centerx="32232" centery="32246" centerz="7" radius="1">
+		<npc name="World Traveler" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="32682" centery="32246" centerz="7" radius="5">
 		<monster name="giant spider" x="-4" y="0" z="7" spawntime="60" />
@@ -12344,6 +12347,9 @@
 	<spawn centerx="32028" centery="32176" centerz="8" radius="5">
 		<monster name="rat" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="32239" centery="32176" centerz="8" radius="3">
+		<monster name="slime" x="0" y="-2" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="33080" centery="32177" centerz="8" radius="5">
 		<monster name="elf Scout" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
@@ -12351,6 +12357,10 @@
 		<monster name="bug" x="0" y="0" z="8" spawntime="60" />
 		<monster name="rat" x="-2" y="2" z="8" spawntime="60" />
 		<monster name="spider" x="0" y="3" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32220" centery="32178" centerz="8" radius="3">
+		<monster name="slime" x="1" y="-2" z="8" spawntime="60" />
+		<monster name="slime" x="-2" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="32954" centery="32178" centerz="8" radius="5">
 		<monster name="swamp troll" x="0" y="0" z="8" spawntime="60" />
@@ -12367,6 +12377,10 @@
 	</spawn>
 	<spawn centerx="32083" centery="32183" centerz="8" radius="5">
 		<monster name="rat" x="-2" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32249" centery="32183" centerz="8" radius="3">
+		<monster name="slime" x="2" y="-1" z="8" spawntime="60" />
+		<monster name="slime" x="-2" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="31999" centery="32184" centerz="8" radius="5">
 		<monster name="rabbit" x="0" y="0" z="8" spawntime="60" />
@@ -12426,6 +12440,9 @@
 		<monster name="rat" x="0" y="0" z="8" spawntime="60" />
 		<monster name="rat" x="1" y="4" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="32214" centery="32191" centerz="8" radius="3">
+		<monster name="slime" x="-1" y="-1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="32935" centery="32191" centerz="8" radius="5">
 		<monster name="swamp troll" x="0" y="0" z="8" spawntime="60" />
 		<monster name="swamp troll" x="0" y="4" z="8" spawntime="60" />
@@ -12444,6 +12461,9 @@
 	<spawn centerx="32055" centery="32194" centerz="8" radius="5">
 		<monster name="bug" x="0" y="-5" z="8" spawntime="60" />
 		<monster name="bug" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32250" centery="32194" centerz="8" radius="3">
+		<monster name="slime" x="2" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="32913" centery="32194" centerz="8" radius="5">
 		<monster name="swamp troll" x="4" y="-5" z="8" spawntime="60" />
@@ -12478,6 +12498,10 @@
 		<monster name="rat" x="-3" y="0" z="8" spawntime="60" />
 		<monster name="rat" x="0" y="0" z="8" spawntime="300" />
 		<monster name="rat" x="5" y="3" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32213" centery="32201" centerz="8" radius="3">
+		<monster name="slime" x="-2" y="-2" z="8" spawntime="60" />
+		<monster name="slime" x="2" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="32169" centery="32203" centerz="8" radius="5">
 		<monster name="bear" x="0" y="0" z="8" spawntime="60" />
@@ -12548,8 +12572,15 @@
 		<monster name="rat" x="5" y="-1" z="8" spawntime="60" />
 		<monster name="rat" x="0" y="0" z="8" spawntime="400" />
 	</spawn>
+	<spawn centerx="32222" centery="32211" centerz="8" radius="3">
+		<monster name="slime" x="2" y="0" z="8" spawntime="60" />
+		<monster name="slime" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="32004" centery="32212" centerz="8" radius="5">
 		<monster name="troll" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="32241" centery="32212" centerz="8" radius="3">
+		<monster name="slime" x="1" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="32041" centery="32213" centerz="8" radius="5">
 		<monster name="rat" x="0" y="0" z="8" spawntime="60" />
