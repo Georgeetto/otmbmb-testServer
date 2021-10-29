@@ -169,10 +169,10 @@
 		<vocation name="Sorcerer"/> <vocation name="Master Sorcerer"/>
 		<vocation name="Druid"/>    <vocation name="Elder Druid"/>
 	</conjure>
-	<conjure name="Food" words="exevo pan" needlearn="0" maglv="0" soul="0" mana="120" selftarget="1" aggressive="0" script="support/conjure_food.lua">
+<!-- 	<conjure name="Food" words="exevo pan" needlearn="0" maglv="0" soul="0" mana="120" selftarget="1" aggressive="0" script="support/conjure_food.lua">
 		<vocation name="Druid"/>    <vocation name="Elder Druid"/>
 		<vocation name="Paladin"/>  <vocation name="Royal Paladin"/>
-	</conjure>
+	</conjure> -->
 	<conjure name="Intense Healing Rune" words="adura gran" needlearn="0" lvl="1" soul="0" mana="120" reagentId="2260" conjureId="2265" conjureCount="1" function="conjureRune">
 		<vocation name="Druid"/>    <vocation name="Elder Druid"/>
 	</conjure>
