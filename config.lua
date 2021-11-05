@@ -289,8 +289,8 @@
 	ghostModeSpellEffects = false
 
 	-- Limits
-	idleWarningTime = 14 * 60 * 1000
-	idleKickTime = 15 * 60 * 1000
+	idleWarningTime = 9998 * 60 * 1000
+	idleKickTime = 9999 * 60 * 1000
 	expireReportsAfterReads = 1
 	playerQueryDeepness = -1
 	protectionTileLimit = 10
