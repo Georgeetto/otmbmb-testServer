@@ -316,12 +316,12 @@
 	experienceStages = true
 	rateExperience = 40
 	rateExperienceFromPlayers = 2
-	levelToOfflineTraining = 20
-	rateSkill = 16
+	levelToOfflineTraining = 100
+	rateSkill = 14
 	rateSkillOffline = 0.5
-	rateMagic = 8
+	rateMagic = 7
 	rateMagicOffline = 0.5
-	rateLoot = 1.3
+	rateLoot = 1.2
 	rateSpawnMin = 1
 	rateSpawnMax = 1
 	formulaLevel = 5.0
