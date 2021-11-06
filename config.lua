@@ -210,7 +210,7 @@
 	houseNeedPremium = true
 	bedsRequirePremium = true
 	levelToBuyHouse = 8
-	housesPerAccount = 2
+	housesPerAccount = 3
 	houseRentAsPrice = false
 	housePriceAsRent = false
 	housePriceEachSquare = 1100
@@ -293,9 +293,9 @@
 	idleKickTime = 9999 * 60 * 1000
 	expireReportsAfterReads = 1
 	playerQueryDeepness = -1
-	protectionTileLimit = 10
+	protectionTileLimit = 50
 	houseTileLimit = 10
-	tileLimit = 7
+	tileLimit = 50
 
 	-- Premium-related
 	freePremium = true
@@ -321,7 +321,7 @@
 	rateSkillOffline = 0.5
 	rateMagic = 7
 	rateMagicOffline = 0.5
-	rateLoot = 1.2
+	rateLoot = 1.1
 	rateSpawnMin = 1
 	rateSpawnMax = 1
 	formulaLevel = 5.0
