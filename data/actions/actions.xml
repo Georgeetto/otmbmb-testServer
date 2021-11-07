@@ -54,7 +54,7 @@
     <action uniqueid="10822" script="edron/Demon Helmet Quest/leverdh.lua" />
 	<action uniqueid="10023" script="edron/Parchment Room Quest/bag.lua"/>
 	<action uniqueid="10014" script="edron/The Behemoth Quest/behemoth_lever.lua"/>
-	<action uniqueid="64698" script="edron/Annihilator.lua"/>
+	<action uniqueid="64698" script="edron/Annihilator/Annihilator.lua"/>
 	
 		
 	<!-- jakundaf desert -->
