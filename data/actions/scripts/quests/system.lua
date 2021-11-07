@@ -3,7 +3,7 @@ local specialQuests = {
 }
 
 local questsExperience = {
-	[64698] = 10000
+	[64698] = 80000
 }
 
 function onUse(cid, item, fromPosition, itemEx, toPosition)
