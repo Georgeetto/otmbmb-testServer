@@ -1,6 +1,6 @@
-local specialQuests = {
-	[2001] = 30015 --Annihilator
-}
+--local specialQuests = {
+--	[2001] = 30015 --Annihilator
+--}
 
 local questsExperience = {
 	[30015] = 10000
