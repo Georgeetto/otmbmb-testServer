@@ -1,9 +1,9 @@
---local specialQuests = {
---	[2001] = 30015 --Annihilator
---}
+local specialQuests = {
+	[2001] = 64698 --Annihilator
+}
 
 local questsExperience = {
-	[30015] = 10000
+	[64698] = 10000
 }
 
 function onUse(cid, item, fromPosition, itemEx, toPosition)
