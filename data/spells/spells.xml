@@ -28,7 +28,7 @@
 	<rune name="adevo mas grav vis" id="2279" maglv="9" blocktype="solid" charges="10" script="attack/energy_wall.lua" />
 	<rune name="adori vita vis" id="2268" maglv="15" needtarget="1" charges="10" script="attack/sudden_death.lua" />
 	 <rune name="adevo res pox" id="2292" maglv="4" needtarget="1" charges="10" script="attack/envenom.lua" />
-	<rune name="adana ani" id="2278" maglv="18" needtarget="1" mana="1400" charges="10" script="support/paralyze_rune.lua">
+	<rune name="adana ani" id="2278" maglv="18" needtarget="1" mana="600" charges="10" script="support/paralyze_rune.lua">
 		<vocation name="Druid"/>    <vocation name="Elder Druid"/>
 	</rune>
 
