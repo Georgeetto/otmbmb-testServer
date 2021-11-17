@@ -1,5 +1,5 @@
 function onUse(cid, item, frompos, item2, topos)
-	local oil = getTileItemById(frompos, 2025)
+	local oil = getTileItemById(frompos, 2017)
 	local square = {x = 32801, y = 32336, z = 11, stackpos = 0} 
 	local playerTile = {x = 32801, y = 32336, z = 11, stackpos = 255} 
 	local present_player = getThingfromPos(playerTile)

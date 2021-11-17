@@ -66,6 +66,7 @@
 	<action uniqueid="3402" script="jakundaf desert/The Outlaw Camp Quest/power burn.lua"/>
 	<action uniqueid="10102" script="jakundaf desert/The Desert Dungeons Quest/desert_quest.lua"/>
 	<action uniqueid="10105" script="jakundaf desert/poh/switch.lua"/>
+	<action uniqueid="64699" script="jakundaf desert/goldenHelmet/goldenHelmet.lua"/>
 	
 	    <!-- RealOTX by BrewsterL -->
 
@@ -73,7 +74,7 @@
 	<action default="yes" event="script" value="default.lua"/>
 
 	<!-- Quests -->
-	<action actionid="2000-2001" event="script" value="quests/system.lua"/>
+	<action actionid="2000-2002" event="script" value="quests/system.lua"/>
 	<action itemid="1740;1747-1749" event="script" value="quests/quests.lua"/>
 
 	<!-- Text -->

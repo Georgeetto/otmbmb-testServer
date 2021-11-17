@@ -81,7 +81,7 @@
 	allowFightback = false
 	pzLocked = 60 * 1000
 	huntingDuration = 60 * 1000
-	criticalHitMultiplier = 1.2
+	criticalHitMultiplier = 1
 	displayCriticalHitNotify = true
 	removeWeaponAmmunition = true
 	removeWeaponCharges = true
@@ -210,7 +210,7 @@
 	houseNeedPremium = true
 	bedsRequirePremium = true
 	levelToBuyHouse = 8
-	housesPerAccount = 2
+	housesPerAccount = 3
 	houseRentAsPrice = false
 	housePriceAsRent = false
 	housePriceEachSquare = 1100
@@ -289,13 +289,13 @@
 	ghostModeSpellEffects = false
 
 	-- Limits
-	idleWarningTime = 14 * 60 * 1000
-	idleKickTime = 15 * 60 * 1000
+	idleWarningTime = 9998 * 60 * 1000
+	idleKickTime = 9999 * 60 * 1000
 	expireReportsAfterReads = 1
 	playerQueryDeepness = -1
-	protectionTileLimit = 10
+	protectionTileLimit = 50
 	houseTileLimit = 10
-	tileLimit = 7
+	tileLimit = 50
 
 	-- Premium-related
 	freePremium = true
@@ -316,12 +316,12 @@
 	experienceStages = true
 	rateExperience = 40
 	rateExperienceFromPlayers = 2
-	levelToOfflineTraining = 20
-	rateSkill = 16
+	levelToOfflineTraining = 100
+	rateSkill = 14
 	rateSkillOffline = 0.5
-	rateMagic = 8
+	rateMagic = 7
 	rateMagicOffline = 0.5
-	rateLoot = 1.3
+	rateLoot = 1.1
 	rateSpawnMin = 1
 	rateSpawnMax = 1
 	formulaLevel = 5.0
