@@ -129,4 +129,60 @@ Visit for updates, support, and resources: https://github.com/mattyx14/otxserver
 Pleura has logged in.
 > Saving server...
 mysql_real_query(): BEGIN - MYSQL ERROR: Lost connection to MySQL server during query (2013)
-> WARNING: MYSQL Lost connection, attempting to reconnect...
+> WARNING: MYSQL Lost connection, attempting to reconnect...The OTX Server Version: (2.X.S - 5) - Codename: (FORGOTTEN)
+Compiled with GNU C++ version 5.4.0 20160609 for arch 64 Bits at Oct 17 2021 03:03:47
+
+A server developed by: Mattyx14 and The Forgotten Server Developers.
+Visit for updates, support, and resources: https://github.com/mattyx14/otxserver/tree/otxserv2
+
+>> Loading config (config.lua)
+>> Opening logs
+>> Loading Password encryption:
+>>> Using (SHA1) encryption ... (done).
+>> Loading RSA key
+>> Starting SQL connection
+>> Running Database Manager
+> Optimizing table: tile_store... [success]
+>> Checking for duplicated items
+>> There wasn't duplicated items in the server.
+>> Loading groups
+>> Loading items (OTB)
+>> Loading items (XML)
+>> Loading outfits
+>> Loading raids
+>> Loading vocations
+>> Loading chat channels
+>> Loading experience stages
+>> Loading mods:
+>>> Loading firstitems.xml ... (done).
+>>> Loading mod_cast.xml ... (done).
+>>> Loading custom_commands.xml ... (done).
+>>> Loading events_mods.xml ... (done).
+>>> (0) mods were disabled.
+>> Loading script systems:
+>>> Loading weapons... (done).
+>>> Preparing weapons... (done).
+>>> Loading spells... (done).
+>>> Loading actions... (done).
+>>> Loading talkactions... (done).
+>>> Loading movements... (done).
+>>> Loading creaturescripts... (done).
+>>> Loading globalscripts... (done).
+>> Loading monsters
+>> Loading map and spawns:
+>>> Map size: 65000x65000.
+>>> Map descriptions: - "Saved with Remere's Map Editor 3.2" - "by BrewsterL"
+>>> Loading time: 9.879 seconds.
+>>> Parsing time: 0.42 seconds.
+>>> Synchronization time: 6.787 seconds.
+>>> Unserialization time: 0.278 seconds.
+>> Checking world type: Open PvP
+>> Starting to dominate the world... done.
+>> Initializing game state and binding services:
+>> Global IP address(es): 34.95.176.102
+>>> Local IP address(es): 10.158.0.2	
+> Bound ports: 7171	7172	
+>> Everything smells good, server is starting up...
+>> MBMB server Online!
+
+Preparing to shutdown the server... (done).
