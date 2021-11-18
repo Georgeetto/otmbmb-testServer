@@ -8356,7 +8356,6 @@
 		<attribute key="containerSize" value="22"/>
 		<attribute key="slotType" value="backpack"/>
 	</item>
-
 	<item id="20001" name="water"/>
 	<item id="20002" name="blood"/>
 	<item id="20003" name="beer"/>
@@ -8379,6 +8378,4 @@
 	<item id="20042" name="health potion"/>
 	<item id="20043" name="spirit potion"/>
 	<item id="20047" name="mana potion"/>
-
-
 </items>
