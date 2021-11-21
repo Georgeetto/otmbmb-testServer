@@ -8351,11 +8351,6 @@
 		<attribute key="description" value="It contains a butterfly."/>
 		<attribute key="weight" value="800"/>
 	</item>
-	<item id="5090" article="a" name="bnb backpack">
-		<attribute key="weight" value="1000"/>
-		<attribute key="containerSize" value="22"/>
-		<attribute key="slotType" value="backpack"/>
-	</item>
 	<item id="20001" name="water"/>
 	<item id="20002" name="blood"/>
 	<item id="20003" name="beer"/>
